@@ -142,9 +142,6 @@ h2 {
 .wrap {
 	margin: 0 auto;
 	max-width: 800px;
-}
-
-.wrap {
 	clear: both;
 	padding: 60px 30px;
 }
